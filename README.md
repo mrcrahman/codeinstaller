@@ -3,8 +3,7 @@
 Working on cloud security and automation projects.  
 I build practical tools that help with AWS security posture, evidence collection, and turning technical findings into clear reports.
 
-## Current Focus
-Cloud Support → Cloud Security Analyst → Cloud Governance
+
 
 ## Skills
 - AWS (IAM, CloudTrail, Security Groups, S3)
